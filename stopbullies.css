@@ -1,0 +1,17 @@
+.banner {
+    font-weight: 900;
+    color: red;
+}
+
+html {
+    padding: 20px;
+    font-family: "Spectral", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: beige;
+    color: darkolivegreen
+}
+
+.bold {
+    font-weight: bold;
+}
